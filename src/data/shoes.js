@@ -1,0 +1,68 @@
+const shoes = [
+  {
+    id: 1,
+    name: "Nike Air Max 270",
+    price: 7999,
+    image: "https://i.pinimg.com/1200x/68/d2/ff/68d2ff2bb41efd3ea7f0e8a2d6f1ddc7.jpg",
+    description: "Lightweight and stylish sneakers with Max Air cushioning.",
+    category: "Sneakers",
+  },
+  {
+    id: 2,
+    name: "Adidas Ultraboost 22",
+    price: 8999,
+    image: "https://i.pinimg.com/1200x/1d/cd/6a/1dcd6a4bfb62b1c980f5e7ec3c4a7d97.jpg",
+    description: "Premium comfort and high performance running shoes.",
+    category: "Running Shoes",
+  },
+  {
+    id: 3,
+    name: "Puma RS-X Bold",
+    price: 5999,
+    image: "https://i.pinimg.com/736x/c3/47/41/c347417e0c2d66854c7514f650ab7248.jpg",
+    description: "Chunky retro design with bold color-blocking.",
+    category: "Sneakers",
+  },
+  {
+    id: 4,
+    name: "Nike Air Force 1",
+    price: 7499,
+    image: "https://i.pinimg.com/736x/95/62/3b/95623b54b7c027da1f89c2d3b941c54e.jpg",
+    description: "Classic timeless sneaker with premium leather finish.",
+    category: "Lifestyle",
+  },
+  {
+    id: 5,
+    name: "Woodland Leather Boots",
+    price: 6599,
+    image: "https://i.pinimg.com/736x/2c/a0/b5/2ca0b59bacc272bd751a1fec0fa25ca3.jpg",
+    description: "Rugged outdoor leather boots built for durability.",
+    category: "Boots",
+  },
+  {
+    id: 6,
+    name: "Skechers Go Run 7",
+    price: 5599,
+    image: "https://i.pinimg.com/1200x/53/06/c1/5306c1b471253e3c638a3a64f651d19a.jpg",
+    description: "Ultra-lightweight and supportive running shoes.",
+    category: "Running Shoes",
+  },
+  {
+    id: 7,
+    name: "Jordan Retro High",
+    price: 12999,
+    image: "https://i.pinimg.com/1200x/c5/51/46/c55146a7a7d6059ecc05658e0bc70d7e.jpg",
+    description: "High-top basketball-inspired fashion sneakers.",
+    category: "Sneakers",
+  },
+  {
+    id: 8,
+    name: "Reebok Classic Leather",
+    price: 4999,
+    image: "https://i.pinimg.com/1200x/56/11/a8/5611a8ca7a97ac450f6660f22cc053e9.jpg",
+    description: "Iconic vintage sneakers with premium leather.",
+    category: "Sneakers",
+  },
+];
+
+export default shoes;
